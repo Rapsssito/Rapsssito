@@ -8,12 +8,6 @@
   - [react-native-background-actions](https://github.com/Rapsssito/react-native-background-actions): React Native background service library for running background tasks forever in Android & iOS. 
   - [github-profile-badge](https://github.com/Rapsssito/github-profile-badge): a widget to display your GitHub profile embedded in any website.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/rapsssito" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rapsssito" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/rodrigo-martin-posada" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rodrigo-martin-posada" height="30" width="40" /></a>
-</p>
-
 <h3 align="left">Languages and Tools:</h3>
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rapsssito&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
