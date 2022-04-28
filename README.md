@@ -6,7 +6,9 @@
 - 👨‍💻 My open source projects:
   - [react-native-tcp-socket](https://github.com/Rapsssito/react-native-tcp-socket): React Native TCP socket API for Android, iOS & macOS with client SSL/TLS support .
   - [react-native-background-actions](https://github.com/Rapsssito/react-native-background-actions): React Native background service library for running background tasks forever in Android & iOS. 
-  - [github-profile-badge](https://github.com/Rapsssito/github-profile-badge): a widget to display your GitHub profile embedded in any website.
+  - [github-profile-badge](https://github.com/Rapsssito/github-profile-badge): Web widget to display your GitHub profile embedded in any website.
+  - [tradle/react-native-udp](https://github.com/tradle/react-native-udp) [Maintainer]: React Native UDP socket API for Android and iOS.
+  - [adamewing/bamsurgeon](https://github.com/adamewing/bamsurgeon) [Maintainer]: Tools for adding variants to existing .bam files. 
 
 <h3 align="left">Languages and Tools:</h3>
  
