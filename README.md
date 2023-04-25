@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rapsssito</h1>
 <h3 align="center">A passionate Software Engineer from Spain</h3>
 
-- 🔭 I’m currently working on [EUCANCan's WP2](https://eucancan.com/)
-
 - 👨‍💻 My open source projects:
   - [react-native-tcp-socket](https://github.com/Rapsssito/react-native-tcp-socket): React Native TCP socket API for Android, iOS & macOS with SSL/TLS support.
   - [react-native-background-actions](https://github.com/Rapsssito/react-native-background-actions): React Native background service library for running background tasks in Android & iOS. 
