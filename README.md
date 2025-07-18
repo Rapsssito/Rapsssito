@@ -6,6 +6,7 @@
 - 🌐 [react-native-tcp-socket](https://github.com/Rapsssito/react-native-tcp-socket): React Native TCP socket API for Android, iOS & macOS with SSL/TLS support
 - 🌐 [tradle/react-native-udp](https://github.com/tradle/react-native-udp): [Maintainer] React Native UDP socket API for Android & iOS
 - 🏷️ [github-profile-badge](https://github.com/Rapsssito/github-profile-badge): Web widget to display your GitHub profile
+- ⚡ [local-solis-ginglong-inverter](https://github.com/Rapsssito/local-solis-ginglong-inverter): Local Solis/Ginglong Inverter logger via LAN for Home Assistant 
 - 📨 [udp-json](https://github.com/Rapsssito/udp-json): Lightweight JSON UDP socket API for NodeJS
 
 ### 🎨 Personal projects
